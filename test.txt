@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 54D1-909A
+
+ Directory of C:\Users\Ashish Vyas\Desktop\EXPGIT
+
+13-09-2017  10:59    <DIR>          .
+13-09-2017  10:59    <DIR>          ..
+13-09-2017  10:59                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,892,936,704 bytes free
